@@ -1,0 +1,36 @@
+🎓 PAGINA-WEB — CRUZEIRO DO SUL
+Um site criado como trabalho universitário para demonstrar habilidades em HTML, CSS e JavaScript. O projeto apresenta páginas de conteúdo, formulário de cadastro e interatividade básica, pensado para fins acadêmicos e de portfólio.
+
+🎯 Visão geral
+Este repositório contém uma página web responsiva desenvolvida com HTML5, CSS3 e JavaScript (Vanilla). É um projeto educacional criado para a disciplina/tarefa da universidade, com foco em boas práticas de estrutura, semântica e organização de código.
+
+🕹️ Como executar
+Clone o repositório:
+git clone https://github.com/GabrielaLeon413/PAGINA-WEB---CRUZEIRO-DO-SUL.git
+Abra a pasta do projeto e execute abrindo Index.html no navegador:
+Duplo clique em Index.html ou
+File → Open no seu navegador preferido.
+
+🧱 Estrutura do repositório
+Index.html — Página principal.
+Projeto.html — Página com informações do projeto.
+Cadastro.html — Formulário de cadastro/dados.
+style.css — Estilos e responsividade.
+SCRIPT.JS — Interatividade e validação (JavaScript).
+IMG/ — Imagens usadas no layout.
+README — Documento explicativo (este arquivo).
+
+🧠 Funcionalidades principais
+Layout responsivo (media queries) — adapta em telas menores.
+Formulário de cadastro com validação básica via JavaScript.
+Interatividade simples (mensagens, ações ao submeter formulários, etc.).
+Estrutura semântica e uso de fontes web para melhor apresentação.
+
+🔧 Tecnologias utilizadas
+HTML5
+CSS
+JavaScript 
+
+✨ Autor
+Gabriela León — Projeto desenvolvido como trabalho universitário.
+Repositório: GabrielaLeon413/PAGINA-WEB---CRUZEIRO-DO-SUL
